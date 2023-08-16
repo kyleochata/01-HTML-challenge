@@ -10,7 +10,7 @@ The first image is what the start code looked in the browser:
 
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/01-html-css-git-homework-demo.png)
 
-The following image is can be found [here](https://kyleochata.github.io/01-HTML-challenge/) and looks like the following in the browser:
+The updated webpage can be found [here](https://kyleochata.github.io/01-HTML-challenge/) and looks like the following in the browser:
 
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/Horiseon%20screenshot.png)
 
